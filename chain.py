@@ -10,7 +10,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import chromadb
 chromadb.api.client.SharedSystemClient.clear_system_cache()
-
+import sqlite3
 load_dotenv()
 
 def load_data() -> List[Document]:
