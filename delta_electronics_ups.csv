@@ -1,0 +1,254 @@
+product_name,series_id,page_content
+Delta UPS–Amplon Family,"N Series, Single Phase 1/2/3 kVA","# Technical Specifications for Delta UPS - Amplon Family
+### N Series, Single Phase
+### 1/2/3 kVA
+
+Delta UPS - Amplon Family
+N Series, Single Phase
+1/2/3 kVA
+
+## High-performance power protection with greater energy savings
+The Amplon N series is a true online double-conversion UPS that can provide your critical equipment with reliable, stable sine wave power. It features significant advantages, including an output power factor of 0.9 and up to 93%. AC-AC efficiency for greater energy savings. The Amplon N series provides a safe power supply guaranteed for
+mission critical applications such as work stations, POS, ATMs, servers, and more.
+
+## Availability
+- True online double-conversion topology and zero transfer time to
+battery ensure high reliability
+- Advanced DSP (Digital Signal Processor) controller for fast
+computation capability and a simplified control circuit for
+enhanced stability
+- Wide input voltage range allows the UPS to work in harsh
+electrical environments
+- Generator compatibility ensures continuous and reliable power
+
+## Green with Low TCO
+- High input power factor (> 0.99) and low input harmonic
+distortion (iTHD < 3%) save upstream investment
+- Output power factor up to 0.9 presents a stronger load capacity
+- AC-AC efficiency up to 93% and high efficiency of 91% at 50%
+load results in marked energy cost savings
+- Compact design saves more space for critical equipment
+## Intelligent Management
+- Excellent local communications through LCD display
+- Intelligent battery management maximizes battery performance
+and sustains battery life
+- Mini slot and USB port enhance monitoring and manageability
+
+# Technical Specifications
+Model|N-1K|N-2K|N-3K
+Power Rating|1kVA/0.9kW|2kVA/1.8kW|3kVA/2.7kW
+Input:
+Nominal Voltage|220/230/240 Vac
+Voltage range|175 ~ 280 Vac (full load); 80~175 Vac (50%-100% load)
+Frequency|50/60 Hz ± 10 Hz
+Power Factor|> 0.99 (full load)
+Current Harmonic Distortion|< 3%
+Output:
+Power Factor|0.9
+Voltage|220/230/240 Vac
+Frequency|50/60 Hz ± 0.05 Hz
+Voltage Harmonic Distortion|< 3% (linear load)
+Overload Capability|< 105%: continuous; 105% ~ 125%：1 minutes；125% ~ 150%：30 seconds
+Crest Factor|3:1
+ReceptacleIEC|C13 x 4|IEC C13 x 6, C19 x 1|IEC C13 x 6, C19 x 1
+Efficiency:
+AC-AC|91%|Up to 93%|Up to 93%
+Battery:
+Battery Voltage|24 Vdc|48 Vdc|72 Vdc
+Typical Backup Time|4.5 min.(full load); 13 min.(half load)
+Recharge Time|3hrs to 90%
+Charge Current|1.5A
+Audible Noise|< 43 dBA|< 48 dBA|< 48 dBA
+Display|LCD panel
+Interface|MINI Slot x 1，USB Port x 1
+Conformance:
+Safety & EMC|CE/ RCM/ EN62040-1/ EN62040-2 Category C2
+Physical:
+Dimensions (Wx Dx H)|145 x 320 x 225 mm|190 x 390 x 325 mm|190 x 390 x 325 mm
+Weight|9 kg|18.6 kg|18.6 kg
+Environment:
+Operating Temperature|0 ~ 40° C
+Relative Humidity|5% ~ 95% (non-condensing)
+
+
+# Images:
+{
+""url"": ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/N_series_1-2-3-kVA__lcd-panel.png"",
+""description"": ""Image of the LCD Panel for this product""
+}
+{
+""url"": ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/N_series_1-2-3-kVA__product_image.png"",
+""description"": ""Image of this product""
+}
+{
+""url"": ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/product_range.png"",
+""description"": ""Image displaying all the UPS products offered by Delta Electronics""
+}
+{
+""url"": ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/UPSentry.png"",
+""description"": ""Image of the Advanced UPS Management Software, called UPSentry""
+}"
+Delta UPS–Amplon Family,"N Series, Single Phase 6/10 kVA","# Delta UPS - Amplon Family
+N Series, Single Phase
+6/10 kVA
+
+## Innovative. Compact. High Performance.
+The Amplon N series 6-10kVA UPS is a single-phase on-line UPS with pioneering technology that provides output power factor up to unity and AC-AC efficiency to a maximum 95%. Its remarkably compact dimensions reserve more room for critical equipment such as workstations, POSs, ATMs, office appliances, small server rooms, and production equipment. The Amplon N series superior features include a N+X parallel redundancy function and variable fan speed control to guarantee high system availability and best Total Cost of Ownership (TCO).
+
+## The Most Compact Design and Best TCO
+- The smallest dimensions in its class saves significant space for more critical equipment.
+- A pioneer in unity power factor (kVA=kW) to maximize power availability.
+- The highest AC-AC efficiency up to 95% and efficiency of 98% in ECO mode for exceptional energy cost savings.
+- Automatic speed regulation function with multi-stage fan speed control maximizes system efficiency, significantly reduces audible noise, and prolongs the service life of the fans.
+
+## High Availability
+- True online double-conversion topology and zero transfer time to battery ensure high reliability.
+- Parallel configuration for expansion and N+X redundancy up to 4 units.
+- Advanced DSP (Digital Signal Processor) controller for fast computation capabilities and a simplified control circuit for enhanced stability.
+- Generator compatibility ensures continuous and reliable power. Intelligent Management
+- Excellent local communications through user-friendly LCD display and LED indicators.
+- Intelligent battery management maximizes battery performance and extends battery life.
+- Various types of communication interfaces enhance monitoring and manageability.
+
+
+# Technical Specifications
+Model|N-6K|N-10K
+Power Rating|6kVA/6KW|10kVA/10KW
+Input:
+Nominal Voltage|200/208/220/230/240 Vac|200/208/220/230/240 Vac
+Voltage range|200/208 (de-rating to 90%) : 100Vac~280Vac* 220/230/240 : 100Vac~280Vac**|200/208 (de-rating to 90%) : 100Vac~280Vac* 220/230/240 : 100Vac~280Vac**
+Frequency|40Hz ~ 70Hz|40Hz ~ 70Hz
+Power Factor|>0.99 (full load)|>0.99 (full load)
+Current Harmonic Distortion|< 3%|< 3%
+Crest factor|3:1|3:1
+Output:
+Power Factor|1
+Nominal Voltage|200/208/220/230/240 Vac|200/208/220/230/240 Vac
+Frequency|50/60 ±0.05 Hz|50/60 ±0.05 Hz
+Voltage Harmonic Distortion|< 2% (linear load)|< 2% (linear load)
+Overload capability|< 105%: continuous; 105% ~ 125%: 2 minutes; 125% ~ 150%: 30 seconds|< 105%: continuous; 105% ~ 125%: 2 minutes; 125% ~ 150%: 30 seconds
+Efficiency:
+AC-AC|Up to 95%|Up to 95%
+ECO mode|Up to 98%|Up to 98%
+Battery:
+Voltage|192-264Vdc adjustable|192-264Vdc adjustable
+Charge current|1.5-8A selectable|1.5-8A selectable
+Audible Noise|< 50dBA|< 50dBA
+Display|LED indicators and LCD display|LED indicators and LCD display
+Communication|REPOx1, RS-232 Port x1, USB Port x1,
+InterfacesParallel Port x2, Smart Slot x1|REPOx1, RS-232 Port x1, USB Port x1,
+InterfacesParallel Port x2, Smart Slot x1
+Physical:
+Dimensions (WxDxH)|190 x 390 x 325 mm|190 x 390 x 325 mm
+Weight|10.1 Kg|12.7 Kg
+Environment:
+Operating Altitude|1000 meters (without de-rating)|1000 meters (without de-rating)
+Operating Temperature|0 ~ 40℃ (at 100% load) 45 ~ 55℃ (de-rating to 80%)|0 ~ 40℃ (at 100% load) 45 ~ 55℃ (de-rating to 80%)
+Storage Temperature|-15 ~ 50℃|-15 ~ 50℃
+Relative Humidity|5 ~ 95% (non-condensing)|5 ~ 95% (non-condensing)
+
+
+# Images:
+{
+""url"" : ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/N_series_6_10-kVA__lcd_panel.png"",
+""description"": ""Image of the LCD Panel for this product""
+}
+{
+""url"" : ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/N_series_6_10-kVA__product_image.png"",
+""description"": ""Image of this product""
+}
+{
+""url"" : ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/N_series_6_10-kVA__rear_panel.png"",
+""description"": ""Image of the rear panel for this product""
+}
+{
+""url"" : ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/N_Series_Product_Image.png"",
+""description"": ""Image of the for all N Series products, namely the N series 1/2/3-kVA and N_Series 6/10-kVA""
+}
+
+"
+Delta UPS–Amplon Family,"N Series, Single Phase 6/10 kVA","# Technical Specifications for Delta UPS - Amplon Family
+### N Series, Single Phase
+### 1/2/3 kVA
+
+Delta UPS - Amplon Family
+RT Series, Single Phase
+1/2/3 kVA
+
+## Reliable power with greater energy-saving features
+- The Amplon RT 1-3kVA series is an online double-conversion UPS providing consistent sine-wave power to your critical equipment.
+- It supports personal computers, networks, servers, VoIP and telecommunications. The Amplon RT 1-3kVA series features an output
+- power factor of 0.9 and best-in-class AC-AC efficiency up to 94% resulting in greater energy savings. Optional external battery pack
+- can be connected for longer backup time to keep your applications safe and running smoothly at all times.
+
+## Availability
+- True online double-conversion topology and zero transfer time to battery ensure high reliability
+- Watch-dog design of DSP (Digital Signal Processor) increases reliability
+- Cold-start capability provides temporary battery power when the utility power is out
+- Fan failure detection alerts users to failed fans
+- Hot swappable batteries ensure continuous operation even when batteries are being replaced
+- Optional external battery pack for easy scaling of longer backup time
+- Operation temperature tolerance up to 50°C ensures critical loads' continuity
+
+## Green & Low TCO
+- High output power factor 0.9 provides more real power to critical loads
+- High input power factor (pf > 0.99) and low harmonic distortion (iTHD < 5%) save upstream investment
+- Up to 94% AC-AC efficiency and 97% efficiency in ECO mode result in marked energy cost savings
+- Wide input voltage range reduces the chance of using the battery and extends battery life
+- Intelligent battery management sustains battery life and performance
+- Fan speed control by load level maximizes efficiency and reduces audible noise
+
+## Flexibility
+- Load segment control allows less-critical loads to be disconnected during blackouts and
+saves battery runtime for important loads
+- Convertible rack and tower configuration in 2U size cabinet
+- Excellent local communications through rotatable LCD display
+- Intelligent management software connectivity via RS232 or USB port
+
+
+# Technical Specifications
+Model	|	RT-1K	|	RT-2K	|	RT-3K
+Power Rating	|	1kVA/0.9kW	|	2kVA/1.8kW	|	3kVA/2.7kW
+Input:
+Nominal Voltage	|	200*/208*/220/230/240 Vac
+Voltage range	|	175 ~ 280 Vac (full load); 120 ~ 175 Vac (70 ~ 100% load)
+Frequency	|	40 ~ 70 Hz
+Power Factor	|	> 0.99 (full load)
+Current Harmonic Distortion	|	 < 5%
+Output:
+Power Factor	|	0.9
+Voltage	|	200*/208*/220/230/240 Vac
+Voltage Regulation	|	± 1% (linear load)
+Frequency	|	50/60 Hz ± 0.05 Hz
+Voltage Harmonic Distortion	|	 < 2% (linear load)
+Overload Capability	|	< 105%: Continuous; 105 ~ 125%: 1 minute; 125 ~ 150%: 15 seconds
+Receptacle	|	IEC C13 x 6	|	IEC C13 x 6, IEC C19 x 1	|	IEC C13 x 6, IEC C19 x 1
+Efficiency:
+AC-AC	|	90%	|	Up to 94%	|	Up to 94%
+ECO Mode	|	96%	|	Up to 97%	|	Up to 97%
+Battery:
+Battery Voltage	|	24 Vdc	|	48	|	72 Vdc
+Typical Backup Time	|	6.5 minutes	|	7 minutes	|	7 minutes
+Charge Current	|	1.5A	|	2A	|	2A
+Recharge Time	|	3 hours to 90%
+Audible Noise	|	< 40 dB	|	< 43 dB	|	< 46 dB
+Display	|	LCD display and LED indicators
+Communication Interfaces	|	SMART Slot x 1, RS-232 Port x 1,USB Port x 1, REPO x 1
+Conformance	|	EN 62040-1, CE, TISI, RCM, EAC
+Dimensions (W x D x H):
+UPS	|	440 x 335 x 89 mm	|	440 x 432 x 89 mm	|	440 x 610 x 89 mm
+External Battery	|	Pack440 x 335 x 89 mm	|	440 x 432 x 89 mm	|	440 x 610 x 89 mm
+Weight:
+UPS	|	12 kg	|	18 kg	|	28 kg
+External Battery Pack	|	15 kg	|	27 kg	|	44 kg
+Environment:
+Operating Temperature	|	0 ~ 50°C***
+Relative Humidity	|	5% ~ 95% (non-condensing)
+
+# Images:
+{
+""url"": ""https://deltatsapoc.blob.core.windows.net/chatbot-rag-images/RT-Series_1-2-3-kvA__product_image.png"",
+""description"": ""Image of this product""
+}
+
+"
