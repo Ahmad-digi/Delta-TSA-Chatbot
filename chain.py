@@ -9,7 +9,6 @@ from typing import List
 import pandas as pd
 import chromadb
 from dotenv import load_dotenv
-import sqlite3
 
 # Load environment variables
 load_dotenv()
