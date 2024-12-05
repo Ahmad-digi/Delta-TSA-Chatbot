@@ -1,8 +1,13 @@
 import streamlit as st
 import sqlite3
 from chain import create_chain  # Import your chain creation logic
-
 import chromadb
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Clear system cache to avoid any potential issues
 chromadb.api.client.SharedSystemClient.clear_system_cache()
 
 # App title and configuration
@@ -33,7 +38,6 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.write(message["content"])
 
-
 # Function to generate a response
 def generate_response(prompt):
     """
@@ -44,7 +48,6 @@ def generate_response(prompt):
         return response
     except Exception as e:
         return f"An error occurred: {e}"
-
 
 # User input
 if prompt := st.chat_input("Type your message here..."):
