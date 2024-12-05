@@ -1,4 +1,5 @@
 import streamlit as st
+import sqlite3
 from chain import create_chain  # Import your chain creation logic
 
 import chromadb
